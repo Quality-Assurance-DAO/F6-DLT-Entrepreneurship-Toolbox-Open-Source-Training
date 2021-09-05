@@ -34,6 +34,24 @@ Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing 
 
 https://www.linkedin.com/in/stephen-whitenstall-166727210
 
+
+### In Draft - Roadmap ( Definition of success after 3, 6 and 12 months)
+
+#### Prior to funding
+
+In collaboration with the Catalyst School – QA-DAO will develop introductory training materials for entrepreneurs to take advantage of open-source tools such as GitHub.
+
+#### 3 months
+
+Once funded QA-DAO will offer introductory training materials for entrepreneurs to take advantage of open-source tools such as GitHub.
+
+#### 6 months
+
+
+#### 12 months
+
+
+
 ### Budget
 
 TBA - Set randomly at 1000

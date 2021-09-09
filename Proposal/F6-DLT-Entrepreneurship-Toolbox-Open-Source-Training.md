@@ -75,7 +75,9 @@ In Fund 5 of Project Catalyst Stephen's QA-DAO (https://stephen-rowan.gitbook.io
 
 Stephen is currently working in collaboration with the Catalyst School to develop documentation and to host workshops. He has also co-hosted Tevo Sak's Mini-Proposal workshops since 24th July 2021.
 
-​https://www.linkedin.com/in/stephen-whitenstall-166727210
+You can support the activities of QA-DAO by becoming a GitHub sponsor https://github.com/sponsors/Quality-Assurance-DAO .
+
+https://www.linkedin.com/in/stephen-whitenstall-166727210
 
 ---------------------------------------------------------------------------------------------------------
 
